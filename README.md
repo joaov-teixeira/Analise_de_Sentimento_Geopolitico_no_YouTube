@@ -1,0 +1,2 @@
+# Analise_de_Sentimento_Geopolitico_no_YouTube
+Este projeto analisou o sentimento dos brasileiros em relação a eventos geopolíticos globais e nacionais, utilizando os comentários em vídeos no YouTube como fonte de dados. O objetivo principal era identificar o sentimento em relação às crises diplomáticas, conflitos militares e mudanças econômicas, e o impacto no discurso e na polarização nas redes sociais.
