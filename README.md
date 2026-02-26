@@ -1,11 +1,16 @@
 # Análise de Sentimento Geopolítico no YouTube
-<img width="4294" height="2803" alt="1_densidade_geopolitica" src="https://github.com/user-attachments/assets/36300aad-eeb5-47cf-8e84-9ba8b5774fb6" />
+
+<img width="1200" height="600" alt="3_ranking_temas" src="https://github.com/user-attachments/assets/480eac2c-e9ff-4bac-87d5-fb1125b33b7f" />
+
+
 ## Este projeto foi desenvolvido para a disciplina de Análise de Mídias Sociais na UFOP (Universidade Federal de Ouro Preto), sob a orientação da Professora Helen Lima. O trabalho explora como o público brasileiro reage e se expressa nos comentários do YouTube em relação a grandes eventos geopolíticos globais.
+
 ## Apresentação completa: https://github.com/joaov-teixeira/Analise_de_Sentimento_Geopolitico_no_YouTube/blob/main/APRESENTA%C3%87%C3%83O%20FINAL.pdf
 ## Files e dataset: https://drive.google.com/drive/folders/1h7tkjSffxfuiWf5WFgcYhVqeE-kFfHcR?usp=sharing
+
 <img width="1200" height="800" alt="WordCloud_EUA_Venezuela_Refinada" src="https://github.com/user-attachments/assets/265b6791-d11a-46aa-bc85-006692b76011" />
 <img width="3000" height="1800" alt="4_vies_fontes" src="https://github.com/user-attachments/assets/3a88b068-467b-433e-a1ee-833637310704" />
-<img width="4294" height="2803" alt="1_densidade_geopolitica" src="https://github.com/user-attachments/assets/1e1ba1fc-685c-45ba-abf6-38270a98e7c6" />
+<img width="4294" height="2803" alt="1_densidade_geopolitica" src="https://github.com/user-attachments/assets/36300aad-eeb5-47cf-8e84-9ba8b5774fb6" />
 
 # Objetivo
 ## Analisar a opinião dos brasileiros sobre eventos políticos internacionais e o impacto desses acontecimentos nos discursos e no sentimento das comunidades digitais.
