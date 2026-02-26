@@ -1,0 +1,19 @@
+# Cache do python no vscode
+__pycache__/
+
+
+# Arquivo contendo variáveis de ambiente
+env.py
+
+# Arquivo local para teste de funções pontuais 
+test.py
+
+# Arquivos gerados pelo algoritmo
+/files
+/files*
+channels_info.csv
+comments_info.csv
+processed_videos.csv
+videos_info.csv
+
+requisições.csv
